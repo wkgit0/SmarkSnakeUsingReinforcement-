@@ -1,0 +1,6 @@
+Rules
+State: The current state of the game board, represented as a grid with information about the snake's position, the location of food, and any obstacles.
+Action: The action taken by the AI in that state, such as moving up, down, left, or right.
+Reward: The immediate reward received by the AI after taking the chosen action in the given state. For the Snake game, a positive reward can be given for eating food and a negative reward for hitting walls or itself.
+Next State: The state that the game transitions to after the AI takes the action in the current state.
+
